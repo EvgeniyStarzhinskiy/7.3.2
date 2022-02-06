@@ -1,9 +1,7 @@
 import java.util.Random;
 
 class Battle{
-
     final static private int MAX = 5;
-
     private Entity[] entities;
     private int n = 0;
 
